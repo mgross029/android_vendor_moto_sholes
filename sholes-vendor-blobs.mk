@@ -76,7 +76,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/sholes/proprietary/SaveBPVer:/system/bin/SaveBPVer \
     vendor/motorola/sholes/proprietary/tcmd:/system/bin/tcmd \
     vendor/motorola/sholes/proprietary/01_Vendor_ti_omx.cfg:/system/etc/01_Vendor_ti_omx.cfg \
-    vendor/motorola/sholes/proprietary/cameraCalFileDef.bin:/system/etc/cameraCalFileDef.bin \
+    vendor/motorola/sholes/proprietary/cameraCalFileDef5M.bin:/system/etc/cameraCalFileDef5M.bin \
     vendor/motorola/sholes/proprietary/contributors.css:/system/etc/contributors.css \
     vendor/motorola/sholes/proprietary/excluded-input-devices.xml:/system/etc/excluded-input-devices.xml \
     vendor/motorola/sholes/proprietary/wl1271.bin:/system/etc/firmware/wl1271.bin \
